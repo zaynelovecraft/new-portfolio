@@ -88,6 +88,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Instagram Clone",
+        "category": "",
+        "image": "insta.jpg",
+        "url": "https://insta-roan.vercel.app/"
+      },
+      {
         "title": "Old Portfolio (React JS)",
         "category": "",
         "image": "snapchat.jpg",
