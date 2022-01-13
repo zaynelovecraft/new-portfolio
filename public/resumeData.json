@@ -88,6 +88,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "MetaVerse",
+        "category": "",
+        "image": "web3.jpg",
+        "url": "https://metapp.vercel.app/"
+      },
+      {
         "title": "Instagram Clone",
         "category": "",
         "image": "insta.jpg",
