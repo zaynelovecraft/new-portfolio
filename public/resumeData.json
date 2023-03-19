@@ -56,20 +56,26 @@
     ],
     "work": [
       {
-        "company": "Epic Dev",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the number one coding community."
+        "company": "VEGAS.COM",
+        "title": "Web Developer",
+        "years": "May 2022 - Present",
+        "description": "Worked in a fast-paced cross-functional collaborative team environment, designing and building customer-facing eCommerce web sites for travel and entertainment using HTML, JavaScript, CSS and React. On the back-end, had the opportunity to work on a Java-based booking platform that is moving towards a micro-services architecture. This is full-time on-site position based in Las Vegas"
+      },
+      {
+        "company": "Solocien.com",
+        "title": "Full Stack Web Developer",
+        "years": "Dec 2021 - Present",
+        "description": "Collaborated during development processes to confirm creative proposals and design best practices. Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness. Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout. Developed customer-facing communications with measurable click-thru rates for marketing conversion tracking. Tested site compatibility across multiple browsers and devices, uncovering and debugging issues and addressing inconsistencies. Wrote clean HTML and CSS code, integrating design, extensions and third-party apps according to web development plans."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "NextJs",
+        "level": "95%"
       },
       {
         "name": "Git",
@@ -81,35 +87,68 @@
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "99%"
+      },
+      {
+        "name": "Api Development",
+        "level": "99%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "Rest Api",
+        "level": "99%"
+      },
+      {
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
+        "name": "Node Js",
+        "level": "90%"
+      },
+      {
+        "name": "Supabase",
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+
+      
+      
       {
-        "title": "MetaVerse",
+        "title": "Client hotel booking Site Nextjs",
         "category": "",
-        "image": "web3.jpg",
-        "url": "https://metapp.vercel.app/"
+        "image": "sol.png",
+        "url": "https://www.solocienadventures.com/"
       },
       {
-        "title": "Instagram Clone",
+        "title": "Single Product Landing Page Nextjs",
         "category": "",
-        "image": "insta.jpg",
-        "url": "https://insta-roan.vercel.app/"
+        "image": "splp.png",
+        "url": "https://interview-project-theta.vercel.app/"
       },
       {
-        "title": "Old Portfolio (React JS)",
+        "title": "Supabase Photo Bucket App Nextjs",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://epicdevv.github.io/test/#/"
+        "image": "pb.png",
+        "url": "https://photo-bucket.vercel.app/"
       },
       {
-        "title": "Name It (React JS)",
+        "title": "Interview Project nextjs",
         "category": "",
-        "image": "nameit.jpg",
-        "url": "https://epicdevv.github.io/NameIt/"
+        "image": "vegas.png",
+        "url": "https://vegas-interview-project.vercel.app/"
+      },
+      {
+        "title": "Airbnb Clone (React JS Next JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://hotel-app-roan.vercel.app/"
       },
       {
         "title": "PokeDex (React JS)",
@@ -123,11 +162,18 @@
         "image": "linkedin.jpg",
         "url": "https://epicdevv.github.io/FlashType/"
       },
+     
       {
-        "title": "Airbnb Clone (React JS Next JS)",
+        "title": "Name It (React JS)",
         "category": "",
-        "image": "airbnb.jpg",
-        "url": "https://hotel-app-roan.vercel.app/"
+        "image": "nameit.jpg",
+        "url": "https://epicdevv.github.io/NameIt/"
+      },
+      {
+        "title": "Old Portfolio (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://epicdevv.github.io/test/#/"
       }
     ]
   },
