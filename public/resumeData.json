@@ -137,6 +137,12 @@
         "url": "https://www.broadwayshows.com/"
       },
       {
+        "title": "Wrecks West Usa Inc",
+        "category": "",
+        "image": "wwuinc.png",
+        "url": "https://wwuinc.vercel.app/"
+      },
+      {
         "title": "Vegas.com",
         "category": "",
         "image": "vegaswork.png",
@@ -177,12 +183,6 @@
         "category": "",
         "image": "gmail.jpg",
         "url": "https://epicdevv.github.io/PokeDex/"
-      },
-      {
-        "title": "Supabase Photo Bucket App Nextjs",
-        "category": "",
-        "image": "pb.png",
-        "url": "https://photo-bucket.vercel.app/"
       },
       {
         "title": "Name It (React JS)",
