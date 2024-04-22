@@ -3,17 +3,17 @@
     "name": "Zayne Lovecraft",
     "occupation": "Front End Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.png",
+    "image": "profilepic.jpeg",
     "bio": "Experienced and innovative Front End Web Developer with a wealth of knowledge on cutting-edge technology trends, dedicated to delivering clean and visually stunning website designs. Skilled in tackling intricate HTML and CSS coding, as well as designing and integrating extensions to fulfill an organization's front-facing internet requirements. A meticulous and cooperative team player with a strong focus on defining project expectations and meeting high demands. Possess a keen eye for detail and a talent for troubleshooting and debugging to ensure optimal performance. Proven track record of collaborating with teams to create highly impactful and cutting-edge websites that effectively engage customers and drive business success. Outstanding understanding of design standards and user preferences.",
     "bio2": "I would also highlight that I am constantly updating my skills and staying informed on the latest developments in web design, allowing me to continuously elevate the quality and functionality of the websites I create. Additionally, I am adaptable and able to quickly learn new technologies and tools as needed. This allows me to confidently take on new challenges and deliver exceptional results for any project.",
     "contactmessage": "Get in touch with me!",
     "email": "zayne.mngmt@gmail.com",
     "phone": "+1 949 867 8321",
     "address": {
-      "street": "Las Vegas",
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "zip": "89052"
+      "street": "Boise",
+      "city": "Boise",
+      "state": "Idaho",
+      "zip": "83704"
     },
     "website": "https://epicdevv.github.io/test/#/",
     "resumedownload": "https://my.indeed.com/p/zaynel-chos6wo",
@@ -57,9 +57,15 @@
     ],
     "work": [
       {
-        "company": "vividseats.com",
+        "company": "McDonalds.com",
+        "title": "Software Engineer II",
+        "years": "Feb 2024 - Present",
+        "description": "As a seasoned Software Engineer Level 2 at McDonald's, I bring a wealth of expertise in crafting sophisticated digital solutions using cutting-edge technologies. With a mastery of Next.js, TypeScript, Tailwind CSS, and Vercel, I've played a pivotal role in advancing McDonald's digital ecosystem. My proficiency in Next.js enables me to architect and optimize high-performance web applications, leveraging server-side rendering and static site generation for scalability and maintainability. I excel in writing type-safe code and harnessing advanced TypeScript features to ensure robust, bug-free codebases. With Tailwind CSS, I design visually striking and responsive user interfaces, maintaining brand consistency across all digital platforms. Additionally, my experience deploying Next.js applications on Vercel ensures seamless deployment and optimized performance. My portfolio showcases a track record of delivering top-notch solutions that elevate user experiences and drive business growth."
+      },
+      {
+        "company": "VividSeats.com",
         "title": "Web Developer",
-        "years": "Nov 2023 - Present",
+        "years": "Nov 2023 - Feb 2024",
         "description": "As a web developer at Vivid Seats, I have a diverse set of responsibilities that contribute to the success of the company's web presence. This includes designing and building complex web applications, updating and maintaining existing websites, conducting code reviews and providing technical guidance, collaborating with designers and UX professionals, and troubleshooting and problem-solving to ensure optimal performance and user experience. I work closely with my team to ensure that all projects meet the highest standards of functionality and usability while adhering to coding best practices."
       },
       {
@@ -69,7 +75,7 @@
         "description": "Worked in a fast-paced cross-functional collaborative team environment, designing and building customer-facing eCommerce web sites for travel and entertainment using HTML, JavaScript, CSS and React. On the back-end, had the opportunity to work on a Java-based booking platform that is moving towards a micro-services architecture. This is full-time on-site position based in Las Vegas"
       },
       {
-        "company": "solocienadventures.com",
+        "company": "SoloCienAdventures.com",
         "title": "Full Stack Web Developer",
         "years": "Dec 2021 - Present",
         "description": "Collaborated during development processes to confirm creative proposals and design best practices. Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness. Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout. Developed customer-facing communications with measurable click-thru rates for marketing conversion tracking. Tested site compatibility across multiple browsers and devices, uncovering and debugging issues and addressing inconsistencies. Wrote clean HTML and CSS code, integrating design, extensions and third-party apps according to web development plans."
@@ -124,9 +130,12 @@
   },
   "portfolio": {
     "projects": [
-
-      
-      
+      {
+        "title": "Broadwayshows.com",
+        "category": "",
+        "image": "broadway.png",
+        "url": "https://www.broadwayshows.com/"
+      },
       {
         "title": "Vegas.com",
         "category": "",
