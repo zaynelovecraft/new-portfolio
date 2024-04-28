@@ -71,7 +71,7 @@
       {
         "company": "Vegas.com",
         "title": "Web Developer",
-        "years": "May 2022 - Present",
+        "years": "May 2022 - Feb 2024",
         "description": "Worked in a fast-paced cross-functional collaborative team environment, designing and building customer-facing eCommerce web sites for travel and entertainment using HTML, JavaScript, CSS and React. On the back-end, had the opportunity to work on a Java-based booking platform that is moving towards a micro-services architecture. This is full-time on-site position based in Las Vegas"
       },
       {
@@ -84,23 +84,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "97%"
+        "level": "99%"
       },
       {
         "name": "NextJs",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "Git",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "JavaScript",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "99%"
       },
       {
         "name": "Api Development",
@@ -108,7 +108,7 @@
       },
       {
         "name": "TypeScript",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "Rest Api",
@@ -116,7 +116,7 @@
       },
       {
         "name": "Redux",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "Node Js",
@@ -124,7 +124,7 @@
       },
       {
         "name": "Supabase",
-        "level": "100%"
+        "level": "99%"
       }
     ]
   },
