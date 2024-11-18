@@ -2,7 +2,7 @@
   "main": {
     "name": "Zayne Lovecraft",
     "occupation": "Front End Developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "I eat, sleep and breathe Next.js",
     "image": "profilepic.jpeg",
     "bio": "Experienced and innovative Front End Web Developer with a wealth of knowledge on cutting-edge technology trends, dedicated to delivering clean and visually stunning website designs. Skilled in tackling intricate HTML and CSS coding, as well as designing and integrating extensions to fulfill an organization's front-facing internet requirements. A meticulous and cooperative team player with a strong focus on defining project expectations and meeting high demands. Possess a keen eye for detail and a talent for troubleshooting and debugging to ensure optimal performance. Proven track record of collaborating with teams to create highly impactful and cutting-edge websites that effectively engage customers and drive business success. Outstanding understanding of design standards and user preferences.",
     "bio2": "I would also highlight that I am constantly updating my skills and staying informed on the latest developments in web design, allowing me to continuously elevate the quality and functionality of the websites I create. Additionally, I am adaptable and able to quickly learn new technologies and tools as needed. This allows me to confidently take on new challenges and deliver exceptional results for any project.",
@@ -25,7 +25,7 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/epic_devv",
+        "url": "https://x.com/zaynelovecraft",
         "className": "fa fa-twitter"
       },
       {
@@ -35,12 +35,12 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/script_daddy/",
+        "url": "https://www.instagram.com/zaynelovecraft/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/EpicDevv",
+        "url": "https://github.com/zaynelovecraft",
         "className": "fa fa-github"
       }
     ]
@@ -171,30 +171,6 @@
         "category": "",
         "image": "puppies.png",
         "url": "https://puppies-sigma.vercel.app/"
-      },
-      {
-        "title": "FlashType (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://epicdevv.github.io/FlashType/"
-      },
-      {
-        "title": "PokeDex (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://epicdevv.github.io/PokeDex/"
-      },
-      {
-        "title": "Name It (React JS)",
-        "category": "",
-        "image": "nameit.jpg",
-        "url": "https://epicdevv.github.io/NameIt/"
-      },
-      {
-        "title": "Old Portfolio (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://epicdevv.github.io/test/#/"
       }
     ]
   },
